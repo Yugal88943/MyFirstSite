@@ -1,1 +1,1 @@
-This is a test line.
+Line added for reset test.
